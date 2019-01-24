@@ -1,0 +1,32 @@
+{
+    "telemetry.machineId": "88add9626eda60c107c7d8b1ed6773e8aac09dcbe4de7ed9849d201af7e6c80e",
+    "theme": "vs-dark",
+    "themeBackground": "#002b36",
+    "pickerWorkingDir": "/opt/lampp/htdocs",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///opt/lampp/htdocs/rune_killer"
+        ],
+        "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/opt/lampp/htdocs/rune_killer",
+                "external": "file:///opt/lampp/htdocs/rune_killer",
+                "path": "/opt/lampp/htdocs/rune_killer",
+                "scheme": "file"
+            },
+            "backupPath": "/opt/lampp/htdocs/rune_killer/~/.vscode-root/Backups/a07f04e5243b5214451f3b9d383d2936",
+            "uiState": {
+                "mode": 1,
+                "x": 50,
+                "y": 38,
+                "width": 1764,
+                "height": 1004
+            }
+        }
+    }
+}

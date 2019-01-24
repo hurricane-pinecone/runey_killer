@@ -1,0 +1,10 @@
+Starting Microsoft Python language server.
+Microsoft Python Language Server version 0.1.75.0
+Initializing for /usr/bin/python
+[Error - 8:58:39 pm] One or more errors occurred. (failed to parse file file:///opt/lampp/htdocs/rune_killer/scrape.py)
+[Error - 9:52:45 pm] Request textDocument/definition failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:1:67379)
+	at Object.dispose (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:1:155149)
+	at module.exports.t.BaseLanguageClient.stop._connectionPromise.state.g.Stopping._onStop._onStop.resolveConnection.then.e.shutdown.then (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:1:152200)
+	at <anonymous>

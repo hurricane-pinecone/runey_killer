@@ -1,0 +1,9 @@
+[2019-01-23 21:56:10.547] [renderer1] [info] standard startup
+[2019-01-23 21:56:12.542] [renderer1] [error] ENOENT: no such file or directory, open '/home/james/.vscode/extensions/yummygum.city-lights-theme-1.0.11/package.json': {1}
+[2019-01-23 22:01:53.410] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+	at asCompletionResult (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:83:93433)
+	at <anonymous>
+[2019-01-23 22:02:27.195] [renderer1] [error] Cannot read property 'map' of undefined: TypeError: Cannot read property 'map' of undefined
+	at asCompletionResult (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:83:93433)
+	at <anonymous>
+[2019-01-24 09:56:28.187] [renderer1] [error] ENOENT: no such file or directory, open '/home/james/.vscode/extensions/yummygum.city-lights-theme-1.0.11/package.json': {1}

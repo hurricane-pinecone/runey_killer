@@ -1,0 +1,80 @@
+[2019-01-23 20:09:38.005] [exthost] [info] extension host started
+[2019-01-23 20:09:38.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:09:38.018] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-23 20:09:38.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:09:38.023] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-23 20:09:38.039] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:09:38.039] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-23 20:09:38.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:09:38.125] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-23 20:09:38.129] [exthost] [info] eager extensions activated
+[2019-01-23 20:10:12.645] [exthost] [info] extension host started
+[2019-01-23 20:10:12.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:10:12.668] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-23 20:10:12.674] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:10:12.674] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-23 20:10:12.690] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:10:12.690] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-23 20:10:12.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:10:12.778] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-23 20:10:12.783] [exthost] [info] eager extensions activated
+[2019-01-23 20:10:14.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-01-23 20:10:14.967] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-01-23 20:17:44.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-01-23 20:17:44.716] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-01-23 20:21:27.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-01-23 20:21:27.281] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-01-23 20:49:34.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:34.107] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/python/out/pythonMain
+[2019-01-23 20:49:34.108] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:34.108] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/batisteo.vscode-django-0.17.0/out/extension
+[2019-01-23 20:49:34.121] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.jupyter {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:34.121] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/donjayamanne.jupyter-1.1.4/out/src/extension
+[2019-01-23 20:49:34.611] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:34.611] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension
+[2019-01-23 20:49:35.004] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:35.005] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.2/out/extension
+[2019-01-23 20:49:52.499] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-23 20:49:52.499] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-01-23 20:49:52.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-23 20:49:52.506] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-01-23 20:49:52.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-23 20:49:52.561] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-01-23 20:49:54.284] [exthost] [info] extension host started
+[2019-01-23 20:49:54.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:49:54.332] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-01-23 20:49:54.339] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:49:54.339] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-01-23 20:49:54.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:49:54.366] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-01-23 20:49:54.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-01-23 20:49:54.459] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-01-23 20:49:54.465] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:54.465] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/python/out/pythonMain
+[2019-01-23 20:49:54.465] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:54.465] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/batisteo.vscode-django-0.17.0/out/extension
+[2019-01-23 20:49:54.476] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.jupyter {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:54.476] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/donjayamanne.jupyter-1.1.4/out/src/extension
+[2019-01-23 20:49:54.904] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:54.904] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension
+[2019-01-23 20:49:55.247] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-01-23 20:49:55.247] [exthost] [info] ExtensionService#loadCommonJSModule /home/james/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.2/out/extension
+[2019-01-23 20:49:55.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2019-01-23 20:49:55.471] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2019-01-23 20:49:55.482] [exthost] [info] eager extensions activated
+[2019-01-23 20:52:48.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-01-23 20:52:48.343] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-01-23 21:00:37.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-23 21:00:37.478] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-01-23 21:00:37.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-23 21:00:37.486] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-01-23 21:00:37.544] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-01-23 21:00:37.544] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-01-23 21:34:55.384] [exthost] [error] [ms-python.python] provider FAILED
+[2019-01-23 21:34:55.387] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+	at asCompletionResult (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:83:93433)
+	at <anonymous>
+[2019-01-23 21:35:03.866] [exthost] [error] [ms-python.python] provider FAILED
+[2019-01-23 21:35:03.866] [exthost] [error] TypeError: Cannot read property 'map' of undefined
+	at asCompletionResult (/home/james/.vscode/extensions/ms-python.python-2018.12.1/out/client/extension.js:83:93433)
+	at <anonymous>
